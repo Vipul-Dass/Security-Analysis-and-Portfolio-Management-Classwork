@@ -7,3 +7,9 @@ Assignments and Projects for the Subject done in Python
 Download the daily last 6 month closing prices for the common stock of your assigned company and calculate daily returns, 
 expected daily return (assuming equal probability for observed historical data) and
 risk (standard deviation) for this expected return
+
+## Assignment 2 :
+
+Calculate VaR for 1 day at 99% and 95% confidence level for the common stock of your assigned company:
+(a) assuming normal distribution and 
+(b) not assuming any distribution. 
