@@ -13,3 +13,8 @@ risk (standard deviation) for this expected return
 Calculate VaR for 1 day at 99% and 95% confidence level for the common stock of your assigned company:
 (a) assuming normal distribution and 
 (b) not assuming any distribution. 
+
+## Assignment 3 :
+
+Analyze the MACD, RSI and Stochastic chart prepared for last 6 months closing prices of the common stock of your assigned company with complete back testing 
+and recommend BUY/SELL/HOLD for the stock. 
